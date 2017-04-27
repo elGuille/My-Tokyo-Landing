@@ -170,7 +170,7 @@ a:hover {
 
 .intro .intro-body {
     display: table-cell;
-    vertical-align: middle
+    vertical-align: middle;
 }
 
 .intro .intro-body .brand-heading {
@@ -361,4 +361,13 @@ img::selection {
 
 img::-moz-selection {
     background: 0 0
+}
+
+.bookimg
+{
+    padding-top: 10px;
+}
+.mbpad
+{
+    padding-top: 50px;
 }
